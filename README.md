@@ -1,6 +1,6 @@
 ## Hi, I'm Rémi !
 
-I am interested in mathematics and quantitative trading.
+I am interested in mathematics, machine learning and quantitative trading.
 
 ### Languages :
 
