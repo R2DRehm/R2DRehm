@@ -2,7 +2,7 @@
 
 I am interested in mathematics, machine learning and quantitative trading. I am currently working on several topics : generative copulas, multimodal time series and pattern recognition.
 
-For the moment you can find my school projects and thesis, which I’ve made publicly available; I hope they’ll be of interest to anyone working in finance.
+For the moment you can find my school projects and thesis, which I’ve made publicly available; I hope they’ll be of interest to anyone working in finance. 
 
 ### Languages :
 
