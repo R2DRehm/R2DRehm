@@ -2,8 +2,6 @@
 
 I am interested in mathematics, machine learning and quantitative trading. I am currently working on several topics : generative copulas, multimodal time series and pattern recognition.
 
-For the moment you can find my school projects and thesis, which I’ve made publicly available; I hope they’ll be of interest to anyone working in finance.
-
 ### Languages :
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
