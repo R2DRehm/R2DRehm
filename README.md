@@ -1,6 +1,6 @@
 ## Hi, I'm Rémi !
 
-I am interested in mathematics, machine learning and quantitative trading. I am currently working on several topics : generative copulas, multimodal time series and pattern recognition.
+I am interested in mathematics, machine learning and quantitative trading. I am currently working on several topics : group theory and regularization techniques applied to ML.
 
 ### Languages :
 
